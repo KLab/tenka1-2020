@@ -10,3 +10,9 @@
 - [Go](go/gbc2020.go)
 - [Python](python/gbc2020.py)
 - [C#](cs/gbc2020.cs)
+
+ゲームサーバのプログラム及び使用したマップ等
+
+- [APIサーバ](api)
+- [バッチ](batch)
+- [使用したマップ](batch/maps)
