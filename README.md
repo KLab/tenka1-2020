@@ -16,3 +16,8 @@
 - [APIサーバ](api)
 - [バッチ](batch)
 - [使用したマップ](batch/maps)
+
+結果
+
+- [最終結果](ranking_total.tsv)
+- [各ゲームの結果](ranking)
